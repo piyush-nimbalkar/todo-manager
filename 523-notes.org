@@ -1,0 +1,15 @@
+* Questions for Stand-up
+
+** Anonymous/User ID
+
+** Diff between folder and item
+
+** View/Edit
+
+** Zoom
+
+* TODO Not Done
+
+** TODO Receive Share
+
+** Item view/edit
